@@ -1,0 +1,30 @@
+body{
+    background: rgb(19, 190, 139);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: rgba(0, 0, 0, 0.5) 1px 2px;     
+}
+
+       
+section{    
+   background: rgb(7, 17, 109);
+   padding: 50px;           
+   text-align: center;
+   width: 175px;
+   margin:auto ;
+   border-radius: 130px;
+   text-shadow: rgb(0, 0, 0.5) 1px 2px;
+}
+
+#res{
+    background: rgb(7, 17, 109);
+    padding: 15px;
+    border-radius: 130px;
+    width: 175px;
+    margin:auto;
+    margin-top:15px;
+   
+
+}
