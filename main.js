@@ -7,8 +7,7 @@ function calcular(){
     if (user_peso.value.length == 0)
         window.alert('Coloque um valor valido')
     else{
-        var imc = user_peso.value / user_altura.value**2 //o .value retorna o valor do numero sem ele retorna um object
-        
+        var imc = user_peso.value / user_altura.value**2
      
         }if(imc <=18.5){
             res.innerHTML = `Seu IMC: ${imc.toFixed(2)} Abaixo do peso`
